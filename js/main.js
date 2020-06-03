@@ -1,3 +1,7 @@
+
+
+alert("how are you bro")
+
 const responsive = {
     0: {
         items: 1
